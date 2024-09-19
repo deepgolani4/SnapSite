@@ -26,7 +26,7 @@ import ReduxProvider from 'src/redux/redux-provider';
 // ----------------------------------------------------------------------
 
 export const metadata = {
-  title: 'DragNest',
+  title: 'snapSite',
   description:
     'Our platform offers a simple drag-and-drop interface with ready-to-use components and pages. Users can effortlessly create & modify website details to suit their preferences. The platform allows for real-time previews on various screens and the export of generated code.',
   keywords:

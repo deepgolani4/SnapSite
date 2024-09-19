@@ -26,7 +26,7 @@ const bars = `
           <!-- logo - start -->
           <div class="mb-4 lg:-mt-2">
             <a href="/" class="inline-flex items-center gap-2 text-xl font-bold text-black md:text-2xl" aria-label="logo">
-              <img class='h-10' src='https://dragnest.vercel.app/logo/logo_single.svg'/>
+              <img class='h-10' src='https://snapSite.vercel.app/logo/logo_single.svg'/>
             {{title}}
             </a>
           </div>
@@ -169,8 +169,8 @@ const block = {
   previewImageUrl: 'https://i.imgur.com/WdWS7zX.png',
   category: 'footer',
   defaultData: {
-    title: 'DragNest',
-    tagline: '© 2024 - DragNest. All rights reserved.',
+    title: 'snapSite',
+    tagline: '© 2024 - snapSite. All rights reserved.',
     newsLetter: true,
   },
   config: [

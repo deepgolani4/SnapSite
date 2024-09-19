@@ -1,6 +1,6 @@
 {
-  "name": "DragNest",
-  "short_name": "DragNest",
+  "name": "snapSite",
+  "short_name": "snapSite",
   "display": "standalone",
   "start_url": "/",
   "theme_color": "#000000",

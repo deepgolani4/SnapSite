@@ -51,7 +51,7 @@ const block = {
   previewImageUrl: 'https://i.imgur.com/EQB0D8I.png',
   category: 'footer',
   defaultData: {
-    tagline: '© 2024 - DragNest. All rights reserved.',
+    tagline: '© 2024 - snapSite. All rights reserved.',
     links: [
       {
         name: 'Home',
